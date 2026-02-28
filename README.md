@@ -1,8 +1,6 @@
-# Beast++ E-Commerce Platform
+# E-Commerce Platform
 
-## 🚀 Live Demo
-Frontend: https://yourapp.vercel.app
-Backend: https://yourapi.onrender.com
+
 
 ## 🛠 Tech Stack
 - Node.js
